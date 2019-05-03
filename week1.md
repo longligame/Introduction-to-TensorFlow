@@ -1,7 +1,4 @@
-# Week1 
-
-
-## A New Programming Paradigm
+# Week1 A New Programming Paradigm
 
 **新的编程范式**
 
