@@ -14,8 +14,13 @@ github的markdown不支持公式, 安装下面的 chrome 安装插件，可以�
 
 ## Links
 
-[]()
+[A New Programming Paradigm](https://github.com/rubust-ai/Introduction-to-TensorFlow/blob/master/week1.md)
 
 
-[]()
+[Introduction to Computer Vision](https://github.com/rubust-ai/Introduction-to-TensorFlow/blob/master/week2.md)
 
+
+[Enhancing Vision with Convolutional Neural Networks](https://github.com/rubust-ai/Introduction-to-TensorFlow/blob/master/week3.md)
+
+
+[Using Real-world Images](https://github.com/rubust-ai/Introduction-to-TensorFlow/blob/master/week4.md)
