@@ -24,5 +24,3 @@ github的markdown不支持公式, 安装下面的 chrome 安装插件，可以�
 
 
 [week4 Using Real-world Images](https://github.com/rubust-ai/Introduction-to-TensorFlow/blob/master/week4.md)
-
-[Homework]()
